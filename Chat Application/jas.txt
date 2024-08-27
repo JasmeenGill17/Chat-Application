@@ -1,0 +1,2 @@
+entry point
+http://localhost/chat%20application/index.php
